@@ -1,10 +1,10 @@
 ## 💜 Olá, meu nome é <strong>Caio</strong>!
 
-> Apaixonado por programação desde os 12 anos, e um sede insaciável por conhecimento, buscando todos os dias apliar meu repertório em linguagens de programação.
+> Apaixonado por programação desde os 12 anos, e um sede insaciável por conhecimento, buscando todos os dias apliar meu repertório na área.
 
-🔭 Atualemente cursando Sistemas da Informação na UniFacisa.
+🔭 Atualmente cursando Sistemas da Informação na UniFacisa.
 
-💬 Estudando atualmente Java!
+💬 Estudando Java!
 
 ---
 
