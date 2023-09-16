@@ -6,6 +6,8 @@
 
 💬 Estudando Java!
 
+🧠 Especializado em React!
+
 ---
 
 ## 🚀 Minhas Principais Skills
