@@ -1,4 +1,5 @@
 <div align="center"> <img src="assets/card-en.svg" width="49%" alt="About me (English)" /> <img src="assets/card-pt.svg" width="49%" alt="Sobre mim (Português)" /> </div>
-<h2 align="left">Technologies I've worked with / Tecnologias que já trabalhei</h2>
-<div align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,docker,prisma,git,react,nextjs,nodejs,angular,graphql,mysql,postgres,py,php,spring,java,firebase,supabase,tailwind,vite&perline=11" alt="tech stack" /> </div>
+<div align="center"> <img src="assets/tech-header.svg" width="99%" alt="Technologies I've worked with / Tecnologias que já trabalhei" /> </div>
+<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,docker,prisma,git,react,nextjs,nodejs,angular,graphql,mysql,postgres,py,php,spring,java,firebase,supabase,tailwind,vite&perline=11" alt="tech stack" /> </div>
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kcaiosouza&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" height="150" alt="stats graph" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kcaiosouza&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph" /> <img src="https://streak-stats.demolab.com?user=kcaiosouza&mode=weekly&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph" /> </div>
+
